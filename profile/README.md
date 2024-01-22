@@ -9,9 +9,6 @@ Sivium Solutions is dedicated to providing cutting-edge technology solutions to 
 ## Our Products
 
 - **Product 1**: A brief description of the first product.
-- **Product 2**: A brief description of the second product.
-- **Product 3**: A brief description of the third product.
-- ...
 
 ## Getting Started
 
@@ -43,7 +40,7 @@ We welcome contributions from the community. Here are the guidelines for contrib
 
 ## Support
 
-If you encounter any issues or have questions, please contact us at [support@siviumsolutions.com](mailto:support@siviumsolutions.com).
+If you encounter any issues or have questions, please contact us at [contact@sivium.solutions](mailto:contact@sivium.solutions).
 
 ## License
 
@@ -51,9 +48,7 @@ If you encounter any issues or have questions, please contact us at [support@siv
 
 ## Connect with Us
 
-- **Website**: [https://www.siviumsolutions.com](https://www.siviumsolutions.com)
-- **LinkedIn**: [Sivium Solutions LinkedIn](https://www.linkedin.com/company/siviumsolutions)
-- **Twitter**: [@SiviumSolutions](https://twitter.com/SiviumSolutions)
+- **LinkedIn**: [Sivium Solutions LinkedIn](https://www.linkedin.com/company/sivium-solutions/)
 
 ---
 
